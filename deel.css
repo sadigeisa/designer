@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clear {
+    clear: both;
+}
+
+.topnav {
+    background:#e7e6e6 ;
+    padding: 7px 10%;
+}
+.contact {
+float: left;
+cursor: pointer;
+}
+.footer{
+    display: inline-flex;
+    width: 100%;
+}
+.social-icons {
+float: right;
+}
+.contact ul li {
+    display: inline-block;
+    margin-right: 31px;
+
+}
+.social-icons ul li {
+    display:inline-block;
+    margin-left: 16px;
+}
+.contact ul li svg {
+    color: #20266a;
+}
+.contact ul li a {
+    color: #20266a;
+    cursor: pointer;
+}
+.social-icons ul li svg {
+    color: #20266a;
+    cursor: pointer;
+}
+.social-icons ul li a {
+    color: #20266a;
+}
+.nav {
+    padding: 0 10%;
+}
+
+.nav .logo {
+    width: 10%;
+    float: left;
+}
+.nav .logo img {
+    width: 100%;
+}
+.links {
+    float: left;
+    margin-left: 48px;
+}
+.links ul li {
+    display: inline-block;
+    margin-left: 26px;
+    margin-top: 19px;
+}
+.links ul li a {
+    text-decoration: none;
+    color: #20266a;
+}
+.banner  {
+    height: 87vh;
+    position: relative;
+}
+.banner img {
+    width: 100%;
+    height: 100%;
+}
+.txt {
+    position: absolute;
+    width: 40%;
+    top: 43%;
+    left: 31%;
+    text-align: center;
+}
+.overlay {
+    width: 100%;
+    height: 100%;
+    background: #20266a99;
+    position: absolute;
+    top: 0;
+}
+.txt h1 {
+    color: #fff;
+    text-transform: uppercase;
+
+}
+.txt p {
+    color: #a5a0a0;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.txt a {
+    color: #fff;
+background: #00bc9c;
+padding: 8px 22px;
+text-decoration: none;
+}
+.beautiful-clean {
+    padding: 0 10%;
+}
+.beautiful-clean h2 {
+text-align: center;
+margin-bottom: 20px;
+margin-top: 70px;
+}
+.beautiful-clean .title {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 27px;
+}
+
+
+.box {
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+}
+.icon {
+    float: left;
+    width: 10%;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.box .icon svg {
+    color: #00bc9c;
+    font-size: 25px;
+    font-weight: 900;
+}
+.description {
+    float: left;
+    width: 90%;
+}
+.footer{
+    display: inline-flex;
+    width: 100%;
+}
